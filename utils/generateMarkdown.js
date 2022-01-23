@@ -13,12 +13,14 @@ function renderLicenseBadge(license) {
  
  // TODO: Create a function that returns the license link
  // If there is no license, return an empty string
- function renderLicenseLink(license) {}
+ function renderLicenseLink(license) {
  const licenseLink = '';
  if(license === 'MIT') {
      licenseLink = 'https://choosealicense.com/licenses/mit/' 
  } else {
      licenseLink = ''
+ }
+ return licenseLink;
  };
  
  // TODO: Create a function that returns the license section of README
@@ -76,5 +78,3 @@ function renderLicenseBadge(license) {
  }
  
  module.exports = generateMarkdown;
- 
- 
