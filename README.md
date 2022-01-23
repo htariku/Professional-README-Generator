@@ -1,6 +1,6 @@
-# undefined
+# Professional README Generator 
    
-   https://github.comhtariku/Professional README Generator 
+   https://github.com/htariku/Professional-README-Generator 
  
    # Description
 GIVEN a command-line application that accepts user input
@@ -19,21 +19,21 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-<iframe src="https://drive.google.com/file/d/1VPreYuLysdVvavkiNbqHcmb4KYD4gyeK/preview" width="640" height="480"></iframe>
  
    # Table of Cinetnts: 
-   *[Installation](#Installation)
-   *[Usage](#Usage)
-   *[License](#License)
-   *[Contributors](#Contributors)
-   *[Tests](#Tests)
-   *[Questions](#Questions)
+   ## [Installation](#Installation)
+   ## [Usage](#Usage)
+   ## [License](#License)
+   ## [Contributors](#Contributors)
+   ## [Tests](#Tests)
+   ## [Questions](#Questions)
+
  
-   # Installation 
-   The following must be installed to run the application properly: undefined
+   # Installation: 
+   The following must be installed to run the application properly: to generate your own README, you have to first create your own repository and clone it locally. Then run npm install in order to install the npm package (inquirer and package.JSON). Now the application will be able to run node index.js in the command line. After you have input your questions within the index.js file they should appear in the command line for you to answer and automatically generate a README. Along with the README, it will also generate your license badge using shields.io. 
  
    # Usage 
-   In order to use this application, : to generate your own README, you have to first create your own repository and clone it locally. Then run npm install in order to install the npm package (inquirer and package.JSON). Now the application will be able to run node index.js in the command line. After you have input your questions within the index.js file they should appear in the command line for you to answer and automatically generate a README. Along with the README, it will also generate your license badge using shields.io. 
+   In order to use this application: run node index.js in the command line and get prompted with questions to input answers in for your own README
  
    # License 
    This project is licensed under the MIT license.
@@ -41,13 +41,13 @@ THEN I am taken to the corresponding section of the README
    ![GitHub licence](https://img.shields.io/github/license/htariku/Professional-README-Generator)
  
    ## Contributors 
-   Contributors:
+   Contributors: Xandromous, gchoi2u; original source code: https://github.com/coding-boot-camp/potential-enigma
  
    # Tests 
    The following is necesscary in order to run the test:
  
    # Questions 
-   If you have any further questions or inquieres about the repository, feel free to open an issue or contact htariku at: hgtariku@yahoo.com.
+   If you have any further questions or inquieres about the repository, feel free to open an issue or contact my GitHub ar htariku my e-mail at: hgtariku@yahoo.com.
  
    
  
