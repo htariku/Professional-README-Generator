@@ -21,13 +21,15 @@
    # License 
    This project is licensed under the MIT license.
    
-   ![GitHub licence](https://img.shields.io/github/issues/htariku/
+   ![GitHub licence](https://img.shields.io/github/issues/htariku/Professional-README-Generator)
+
  
    ## Contributors 
    Contributors: Xandromous, gchoi2u; original source code: https://github.com/coding-boot-camp/potential-enigma
  
    # Tests 
    The following is necesscary in order to run the test:
+   
  
    # Questions 
    If you have any further questions or inquieres about the repository, feel free to open an issue or contact me on github @htariku or via email @hgtariku@yahoo.com.

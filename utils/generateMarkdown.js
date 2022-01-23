@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
     const badge = '';
     if(license === 'MIT') {
-        badge = '![GitHub licence](https://img.shields.io/github/issues/htariku/'
+        badge = '![GitHub licence](https://img.shields.io/github/issues/htariku/Professional-README-Generator'
     } else {
         badge = ''
     }
