@@ -11,13 +11,13 @@ const questions = [
     type: "input",
     message: "what is the title of the project?",
     name: "Title",
-    validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
+     validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
   },
   {
     type: "input",
     message: "What is the project about? Give a detailed description",
     name: "discription",
-    validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
+     validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
   },
   {
     type: "input",
@@ -29,7 +29,7 @@ const questions = [
     type: "input",
     message: "What does the user need to install to run this app?",
     name: "installation",
-    validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
+     validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
   },
   {
     type: "input",
@@ -41,38 +41,38 @@ const questions = [
     type: "input",
     message: "Who contributed to this project?",
     name: "Contributing",
-    validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
+     validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
   },
   {
     type: "input",
     message: "What license is being used?",
     name: "License",
     chocies: ['MIT Licence', 'GPL Licence', 'GNU License', 'None'],
-    validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
+     validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
   },
   {
     type: "input",
     message: "What commands are needed to test this app?",
     name: "Tests",
-    validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
+     validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
   },
   {
     type: "input",
     message: "Contact Information",
     name: "Question",
-    validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
-  },
+   validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
+   },
   {
     type: "input",
     message: "What is your GitHub username?",
     name: "Username",
-    validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
-  },
+   validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
+   },
   {
     type: "input",
     message: "What is you email address?",
     name: "Email",
-    validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
+     validate: (value) =>{if(value){return true}else{return 'Please enter a value to continue!'}}
   },
 ];
 
