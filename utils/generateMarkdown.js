@@ -58,6 +58,8 @@ function renderLicenseBadge(license) {
    THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
    WHEN I click on the links in the Table of Contents
    THEN I am taken to the corresponding section of the README
+
+   https://watch.screencastify.com/v/2tZdnutuPwlCHezDBdia
    
    <iframe src="https://drive.google.com/file/d/1VPreYuLysdVvavkiNbqHcmb4KYD4gyeK/preview" width="640" height="480"></iframe>
  
