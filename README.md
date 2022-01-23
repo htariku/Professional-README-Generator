@@ -19,10 +19,12 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-https://watch.screencastify.com/v/2tZdnutuPwlCHezDBdia
+ <img width="1423" alt="Screen Shot 2022-01-23 at 11 54 03 AM" src="https://user-images.githubusercontent.com/94089824/150689129-634e0e21-10a0-4b8b-800d-1de2716bda56.png">
+
+https://watch.screencastify.com/v/P4RheeCzCT82C2gLEiRZ">
 
 
- <img src="">
+
    # Table of Content: 
    ## [Installation](#Installation)
    ## [Usage](#Usage)
